@@ -4,7 +4,7 @@ from rag_pipeline import MedicalRAGChatbot
 # -----------------------------
 # CONFIGURATION (hardcoded)
 # -----------------------------
-GEMINI_API_KEY = "AIzaSyCQzeFE1FQ9UAw0xUOjCvtQ2K1pXakxlNE"  # <-- Add your Gemini API key here
+GEMINI_API_KEY = "insert your api here"  # <-- Add your Gemini API key here
 CSV_FILE_PATH = "data/medical.csv"           # <-- Add the path to your CSV file here
 
 # Initialize chatbot once
