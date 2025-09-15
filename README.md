@@ -14,7 +14,6 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers medical questions us
 ### 1. Prerequisites
 
 - Python 3.8 or higher
-- OpenAI API key (get from https://platform.openai.com/api-keys)
 - Your medical FAQ CSV file with columns: `qtype`, `Question`, `Answer`
 
 ### 2. Installation
